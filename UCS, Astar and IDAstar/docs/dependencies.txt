@@ -1,0 +1,10 @@
+# lines begin with # are comments.
+
+# `pip` for pip-installable libraries. `dir` otherwise
+# example line:
+pip matplotlib
+pip math
+
+#another example:
+#dir aima
+
